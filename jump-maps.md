@@ -123,6 +123,8 @@
 - [Colorful Dreams! Colorful Smiles!](https://osu.ppy.sh/beatmapsets/1739508)
 - [Happy! Lucky! Dochy!](https://osu.ppy.sh/beatmapsets/1594964)
 - [ダイヤモンドハッピー](https://osu.ppy.sh/beatmapsets/2297809)
+- [No title](https://osu.ppy.sh/beatmapsets/320118)
+- [quaver ♪](https://osu.ppy.sh/beatmapsets/873811)
 - []()
 - []()
 - []()
@@ -151,7 +153,6 @@
 - []()
 - []()
 - []()
-- []()
-- []()
+
 
 

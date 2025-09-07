@@ -121,6 +121,8 @@
 - [ギャンブル](https://osu.ppy.sh/beatmapsets/1515350)
 - [ANIMA](https://osu.ppy.sh/beatmapsets/1211739)
 - [Colorful Dreams! Colorful Smiles!](https://osu.ppy.sh/beatmapsets/1739508)
+- [Happy! Lucky! Dochy!](https://osu.ppy.sh/beatmapsets/1594964)
+- [ダイヤモンドハッピー](https://osu.ppy.sh/beatmapsets/2297809)
 - []()
 - []()
 - []()
@@ -151,6 +153,5 @@
 - []()
 - []()
 - []()
-- []()
-- []()
+
 

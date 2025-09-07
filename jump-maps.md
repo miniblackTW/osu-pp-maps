@@ -47,6 +47,8 @@
 - [Start Again 2](https://osu.ppy.sh/beatmapsets/1035167)
 - [One by One](https://osu.ppy.sh/beatmapsets/1148073)
 - [アンサイズニア](https://osu.ppy.sh/beatmapsets/1110954)
+- [ILY](https://osu.ppy.sh/beatmapsets/653534)
+- [Christmas * Rock](https://osu.ppy.sh/beatmapsets/2287463)
 - []()
 - []()
 - []()
@@ -96,5 +98,4 @@
 - []()
 - []()
 - []()
-- []()
-- []()
+

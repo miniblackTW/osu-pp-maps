@@ -125,6 +125,7 @@
 - [ダイヤモンドハッピー](https://osu.ppy.sh/beatmapsets/2297809)
 - [No title](https://osu.ppy.sh/beatmapsets/320118)
 - [quaver ♪](https://osu.ppy.sh/beatmapsets/873811)
+- [シカ色デイズ](https://osu.ppy.sh/beatmapsets/2208114)
 - []()
 - []()
 - []()
@@ -152,7 +153,7 @@
 - []()
 - []()
 - []()
-- []()
+
 
 
 

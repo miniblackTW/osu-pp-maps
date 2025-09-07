@@ -27,6 +27,26 @@
 - [Last Goodbye 1](https://osu.ppy.sh/beatmapsets/744772)
 - [Last Goodbye 2](https://osu.ppy.sh/beatmapsets/2202726)
 - [夏恋花火](https://osu.ppy.sh/beatmapsets/1244123)
+- [Make a Move](https://osu.ppy.sh/beatmapsets/765778)
+- [Unstoppable](https://osu.ppy.sh/beatmapsets/2288607)
+- [Say Goodbye 1](https://osu.ppy.sh/beatmapsets/1049899)
+- [Say Goodbye 2](https://osu.ppy.sh/beatmapsets/1620540)
+- [Time to Say Goodbye](https://osu.ppy.sh/beatmapsets/2285243) Anymoooore-
+- [カラーズぱわーにおまかせろ！ 1](https://osu.ppy.sh/beatmapsets/758344)
+- [カラーズぱわーにおまかせろ！ 2](https://osu.ppy.sh/beatmapsets/1115477)
+- [マシュマリー](https://osu.ppy.sh/beatmapsets/962088#osu)
+- [Bubblegum Bitch](https://osu.ppy.sh/beatmapsets/2282704)
+- [How could you do this to me?](https://osu.ppy.sh/beatmapsets/2284460)
+- [Favorite Liar](https://osu.ppy.sh/beatmapsets/2269930)
+- [WILLSHINE](https://osu.ppy.sh/beatmapsets/2207465)
+- [ANTIDOTE 1](https://osu.ppy.sh/beatmapsets/2313987)
+- [ANTIDOTE 2](https://osu.ppy.sh/beatmapsets/2192808)
+- [American Girls](https://osu.ppy.sh/beatmapsets/2352698)
+- [Dystopia](https://osu.ppy.sh/beatmapsets/2305910)
+- [Start Again 1](https://osu.ppy.sh/beatmapsets/2296940)
+- [Start Again 2](https://osu.ppy.sh/beatmapsets/1035167)
+- [One by One](https://osu.ppy.sh/beatmapsets/1148073)
+- [アンサイズニア](https://osu.ppy.sh/beatmapsets/1110954)
 - []()
 - []()
 - []()
@@ -64,12 +84,17 @@
 - []()
 - []()
 - []()
-  
-
-
-
-
-
-
-
-
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()

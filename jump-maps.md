@@ -158,6 +158,7 @@
 - [WONDERFUL WONDER!](https://osu.ppy.sh/beatmapsets/1280506)
 - [adrenaline!!!](https://osu.ppy.sh/beatmapsets/2331916)
 - [Pedro](https://osu.ppy.sh/beatmapsets/2278283)
+- [Sweets Holic](https://osu.ppy.sh/beatmapsets/2340299)
 
 
 

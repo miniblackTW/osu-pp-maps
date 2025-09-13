@@ -160,3 +160,5 @@
 - [Pedro](https://osu.ppy.sh/beatmapsets/2278283)
 - [Sweets Holic](https://osu.ppy.sh/beatmapsets/2340299)
 - [フローレミ](https://osu.ppy.sh/beatmapsets/2248918)
+- [Dear Brave](https://osu.ppy.sh/beatmapsets/1709733)
+- [Bombs away](https://osu.ppy.sh/beatmapsets/737128)

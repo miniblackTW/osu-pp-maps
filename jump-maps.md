@@ -138,7 +138,7 @@
 - [All I Want For Christmas Is Snow Halation](https://osu.ppy.sh/beatmapsets/1886586)
 - [いたずらな天使と☆Christmas Eve](https://osu.ppy.sh/beatmapsets/2084849)
 - [fieryrage accordion](https://osu.ppy.sh/beatmapsets/1516867)
-- [Glaza](https://osu.ppy.sh/beatmapsets/2182334)
+- [Glaza](https://osu.ppy.sh/beatmapsets/2182334) the top diff is farmable
 - [Tokyo](https://osu.ppy.sh/beatmapsets/333139)
 - [JUSTadICE 1](https://osu.ppy.sh/beatmapsets/983942)
 - [JUSTadICE 2](https://osu.ppy.sh/beatmapsets/950289)
@@ -159,9 +159,4 @@
 - [adrenaline!!!](https://osu.ppy.sh/beatmapsets/2331916)
 - [Pedro](https://osu.ppy.sh/beatmapsets/2278283)
 - [Sweets Holic](https://osu.ppy.sh/beatmapsets/2340299)
-
-
-
-
-
-
+- [フローレミ](https://osu.ppy.sh/beatmapsets/2248918)

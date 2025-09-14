@@ -59,6 +59,7 @@
 - [Star light, Star bright](https://osu.ppy.sh/beatmapsets/1350684)
 - [Zetsubou plantation](https://osu.ppy.sh/beatmapsets/2250663)
 - [水音とカーテン](https://osu.ppy.sh/beatmapsets/968171)
+- [Marshmary](https://osu.ppy.sh/beatmapsets/962088)
 - [Chug Jug With You, but i can't anymore](https://osu.ppy.sh/beatmapsets/1464487)
 - [Science Blaster](https://osu.ppy.sh/beatmapsets/2148832)
 - [Monochrome Butterfly 1](https://osu.ppy.sh/beatmapsets/770300)
@@ -167,5 +168,7 @@
 - [CTRL + ALT + DEL](https://osu.ppy.sh/beatmapsets/2335566)
 - [空色デイズ](https://osu.ppy.sh/beatmapsets/1491855)
 - [Knock Knock](https://osu.ppy.sh/beatmapsets/2112582)
-
-
+- [If You Can't Hang 1](https://osu.ppy.sh/beatmapsets/1632054)
+- [If You Can't Hang 2](https://osu.ppy.sh/beatmapsets/1474728)
+- [If You Can't Hang 3](https://osu.ppy.sh/beatmapsets/2269051)
+- [Title Screen](https://osu.ppy.sh/beatmapsets/2302766)

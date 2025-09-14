@@ -164,4 +164,7 @@
 - [Bombs away](https://osu.ppy.sh/beatmapsets/737128)
 - [Mr.Downer 1](https://osu.ppy.sh/beatmapsets/932165)
 - [Mr.Downer 2](https://osu.ppy.sh/beatmapsets/2146139)
+- [CTRL + ALT + DEL](https://osu.ppy.sh/beatmapsets/2335566)
+- [空色デイズ](https://osu.ppy.sh/beatmapsets/1491855)
+
 

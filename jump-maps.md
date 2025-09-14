@@ -162,3 +162,6 @@
 - [フローレミ](https://osu.ppy.sh/beatmapsets/2248918)
 - [Dear Brave](https://osu.ppy.sh/beatmapsets/1709733)
 - [Bombs away](https://osu.ppy.sh/beatmapsets/737128)
+- [Mr.Downer 1](https://osu.ppy.sh/beatmapsets/932165)
+- [Mr.Downer 2](https://osu.ppy.sh/beatmapsets/2146139)
+

@@ -172,3 +172,5 @@
 - [If You Can't Hang 2](https://osu.ppy.sh/beatmapsets/1474728)
 - [If You Can't Hang 3](https://osu.ppy.sh/beatmapsets/2269051)
 - [Title Screen](https://osu.ppy.sh/beatmapsets/2302766)
+- [Break Of A Heartache](https://osu.ppy.sh/beatmapsets/2323504)
+- [Eyes Wide Shut](https://osu.ppy.sh/beatmapsets/2323502)

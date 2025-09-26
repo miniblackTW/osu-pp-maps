@@ -180,3 +180,5 @@
 - [インフェルノ](https://osu.ppy.sh/beatmapsets/999126)
 - [How To Fly](https://osu.ppy.sh/beatmapsets/2385034)
 - [アオイロステップ](https://osu.ppy.sh/beatmapsets/1044953)
+- [Trauma](https://osu.ppy.sh/beatmapsets/2121231)
+- [Colorful](https://osu.ppy.sh/beatmapsets/1264537) (岸田教団＆THE明星ロケッツ)

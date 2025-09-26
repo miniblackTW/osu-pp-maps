@@ -179,3 +179,4 @@
 - [うつろい](https://osu.ppy.sh/beatmapsets/1155295)
 - [インフェルノ](https://osu.ppy.sh/beatmapsets/999126)
 - [How To Fly](https://osu.ppy.sh/beatmapsets/2385034)
+- [アオイロステップ](https://osu.ppy.sh/beatmapsets/1044953)
